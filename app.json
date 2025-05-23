@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2256648a-ee86-4284-80de-5b991a6818a9"
+      }
+    },
+    "owner": "gotricetom"
   }
 }
